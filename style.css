@@ -1,0 +1,210 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: black;
+    width: 1920px;
+    font-family: sans-serif;
+}
+
+.name{
+    background-color: rgba(0, 0, 0, 0.582);
+    width: 100%;
+}
+.index-main{
+    width: 90%;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+
+}
+.actor-main{
+    color: white;
+    font-size: 24px;
+    padding: 10%;
+    text-align: justify;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.index-main div{
+    margin-top: 50px;
+}
+
+.index-main div a img, .index-main div a{
+    text-decoration: none;
+    color: white;
+    transition: .5s;
+}
+
+.index-main div a:hover img{
+    position: relative;
+    transform: scale(1.3);
+    background-color: rgba(255, 255, 255, 0.329);
+    
+}
+header {
+    background-image: url(header.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+text-align: center;
+    height: 1005px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+header h1 {
+    font-size: 128px;
+    color: white;
+    margin:auto auto;
+}
+main img {
+    width: 450px;
+    height: 450x;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    width: 1200px;
+    
+}
+
+main div{
+    width: 500px;
+    height: 500px;
+}
+.in2 {
+    background-image: url(YangJeong.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+text-align: center;
+    height: 1005px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.in3 {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+.seungmin {
+    background-image: url(Seungmin.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+text-align: center;
+    height: 1005px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.seungmin2 {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+.seungmin {
+    background-image: url(Seungmin.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+text-align: center;
+    height: 1005px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.seungmin2 {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+.Felix {
+    background-image: url(Felixx.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+text-align: center;
+    height: 1005px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Felix2 {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+.Han {
+    background-image: url(Hann.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+text-align: center;
+    height: 1005px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Han2 {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+.Hwan {
+    background-image: url(Hwann.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+text-align: center;
+    height: 1005px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Hwan2 {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+.LeeKnow {
+    background-image: url(Minhoo.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+text-align: center;
+    height: 1005px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.LeeKnow2 {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+.Chan {
+    background-image: url(Chan);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+text-align: center;
+    height: 1005px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Chan2 {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
